@@ -1,9 +1,10 @@
-// let strr="13543"
+let strr="15";
 
-// console.log(+strr)
-// console.log(typeof(strr))
+console.log(+(strr))
 
-//converting string to number 
+console.log(typeof(strr))
+
+// converting string to number 
 
 // let str="12345"
 // let newString="";
